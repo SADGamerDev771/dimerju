@@ -158,9 +158,6 @@ export default function ContactForm() {
             </motion.div>
           )}
         </CardContent>
-        <CardFooter className="text-xs text-gray-400 text-center">
-          Your message will be sent to sadgamerdev771@gmail.com
-        </CardFooter>
       </Card>
     </motion.div>
   )
